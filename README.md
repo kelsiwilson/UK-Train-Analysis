@@ -7,19 +7,21 @@ Mock train ticket data for National Rail in the UK, from Jan to Apr 2024, includ
 4.	What is the on-time performance? What are the main contributing factors?
 ## Steps
 1. I clean the CSV UK Train dataset
-2. I extract the the Month,Year and hour from the date and time in a column
-3. check if there is duplicate
-4. create a pivot table and dashboard
+2. I extract the Month, Year, and hour from the date and time in a column
+3. Check if there is a duplicate
+4. Create a pivot table and dashboard
+5. ![Screenshot 2025-05-02 230310](https://github.com/user-attachments/assets/8ac087eb-93b2-46c1-b8b4-fc1d8d458043)
+
 
 ## Insights
-1. The most popular routes Manchester Piccadilly - Liverpool Lime Street 
-and London Euston - Biringham New Street.
-2. The peak travel days are tuesday and wednesday
-3. The peak travel hours 6pm evening and 6am morning
-4. The peak travel month January and March
-5. For revenue by type, Advance has the highest Revenue while
+1. The most popular routes are Manchester Piccadilly - Liverpool Lime Street 
+and London Euston - Birmingham New Street.
+2. The peak travel days are Tuesday and Wednesday
+3. The peak travel hours 6 pm evening and 6 am morning
+4. The peak travel months are January and March
+5. For revenue by type, Advance has the highest Revenue, while
    revenue by class, Standard has the highest revenue
-6. The ontime performance is 86.8% and contributing factor are signal failure and weather.
+6. The ontime performance is 86.8%, and contributing factors are signal failure and weather.
 
 ## Recommendation
 1. Train station should work on the signal failure and weather issues so that they
