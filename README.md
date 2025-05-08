@@ -24,8 +24,8 @@ and London Euston - Birmingham New Street.
 6. The ontime performance is 86.8%, and contributing factors are signal failure and weather.
 
 ## Recommendation
-1. Train station should work on the signal failure and weather issues so that they
-   will be no more delays, cancellation and reduce refund rate.
+1. The train station should work on the signal failure and weather issues so that there
+   will be no more delays, cancellations, and reduced refund rates.
 2. Increase flight frequency on the most popular routes
 3. Adjust staffing, maintenance schedules, and gate availability to peak hours
 4. Focus marketing and loyalty programs on Standard Class passengers.
