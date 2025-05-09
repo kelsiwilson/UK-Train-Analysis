@@ -6,11 +6,14 @@ Mock train ticket data for National Rail in the UK, from Jan to Apr 2024, includ
 3.	How does revenue vary by ticket types and classes?
 4.	What is the on-time performance? What are the main contributing factors?
 ## Steps
-1. I clean the CSV UK Train dataset
-2. I extract the Month, Year, and hour from the date and time in a column
-3. Check if there is a duplicate
-4. Create a pivot table and dashboard
-5. ![Screenshot 2025-05-02 230310](https://github.com/user-attachments/assets/8ac087eb-93b2-46c1-b8b4-fc1d8d458043)
+Step 1: Cleaned the UK Train dataset (CSV format)
+
+Step 2: Extracted Month, Year, and Hour from the DateTime column
+
+Step 3: Checked for and addressed duplicate records
+
+Step 4: Created a pivot table and dashboard to present key insights
+ ![Screenshot 2025-05-02 230310](https://github.com/user-attachments/assets/8ac087eb-93b2-46c1-b8b4-fc1d8d458043)
 
 
 ## Insights
